@@ -1,5 +1,5 @@
 name = "contextarea-besticon"
-compatibility_date = "2025-06-12"
+compatibility_date = "2025-06-11"
 main = "main.ts"
 dev.port = 3000
 routes = [
