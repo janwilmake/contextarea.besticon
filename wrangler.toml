@@ -1,0 +1,7 @@
+name = "contextarea-besticon"
+compatibility_date = "2025-06-12"
+main = "main.ts"
+dev.port = 3000
+routes = [
+  { pattern = "besticon.contextarea.com", custom_domain = true }
+]
