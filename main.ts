@@ -1,3 +1,5 @@
+// @ts-check
+/// <reference lib="esnext" />
 interface IconCandidate {
   url: string;
   width: number;
